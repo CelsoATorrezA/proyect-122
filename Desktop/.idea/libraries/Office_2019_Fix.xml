@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Office 2019 Fix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OFFICE/Office 2019 Fix.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

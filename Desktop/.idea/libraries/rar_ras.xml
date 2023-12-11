@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="rar.ras">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rar.ras/COLAS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/ProyectoInvlab.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/finalInvieno.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/invierno2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/Invierno.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/inverinosemifinal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/Listasviernes.zip!/" />
+      <root url="jar://$PROJECT_DIR$/rar.ras/Pilasprac.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
