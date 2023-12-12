@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/final122-web/build/static/css/main.c963f31f.css",
+    "main.js": "/final122-web/build/static/js/main.7ba207d1.js",
+    "static/js/787.cbf1a11a.chunk.js": "/final122-web/build/static/js/787.cbf1a11a.chunk.js",
+    "static/media/disco.webp": "/final122-web/build/static/media/disco.8e1ab4989567e4d1b299.webp",
+    "static/media/audifonos.jpg": "/final122-web/build/static/media/audifonos.ce9e18f799d12503e274.jpg",
+    "static/media/mause.jpg": "/final122-web/build/static/media/mause.49e2479e2cc3101dc79d.jpg",
+    "static/media/m1.avif": "/final122-web/build/static/media/m1.ec403886616995a56793.avif",
+    "static/media/m3.webp": "/final122-web/build/static/media/m3.4a8328688a6be91da16a.webp",
+    "static/media/m2.avif": "/final122-web/build/static/media/m2.ce96de1e776fb5f1346b.avif",
+    "static/media/monitor.jpg": "/final122-web/build/static/media/monitor.ac65f39bb93e6b847828.jpg",
+    "static/media/fuente.jpg": "/final122-web/build/static/media/fuente.53a2d8c5c76cdd661386.jpg",
+    "static/media/login.png": "/final122-web/build/static/media/login.64840f86441cfbdd3986.png",
+    "static/media/poli1.jpg": "/final122-web/build/static/media/poli1.4116426e3306bb99b683.jpg",
+    "static/media/vr.jpg": "/final122-web/build/static/media/vr.84636b1d16c44a301d50.jpg",
+    "static/media/lector.jpg": "/final122-web/build/static/media/lector.c1059a4c5fc580fdf8c3.jpg",
+    "static/media/impresora.jpg": "/final122-web/build/static/media/impresora.a3035e4da62426e57da8.jpg",
+    "static/media/microfono.jpg": "/final122-web/build/static/media/microfono.ca73b11511d804e75385.jpg",
+    "index.html": "/final122-web/build/index.html",
+    "main.c963f31f.css.map": "/final122-web/build/static/css/main.c963f31f.css.map",
+    "main.7ba207d1.js.map": "/final122-web/build/static/js/main.7ba207d1.js.map",
+    "787.cbf1a11a.chunk.js.map": "/final122-web/build/static/js/787.cbf1a11a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c963f31f.css",
+    "static/js/main.7ba207d1.js"
+  ]
+}
