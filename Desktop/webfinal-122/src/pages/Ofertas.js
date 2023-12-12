@@ -6,11 +6,9 @@ import audifonos from '../components/audifonos.jpg';
 import fuente from '../components/fuente.jpg';
 import mause from '../components/mause.jpg';
 import impresora from '../components/impresora.jpg';
-import vr from '../components/vr.jpg';
 import monitor from '../components/monitor.jpg';
 import disco from '../components/disco.webp';
 import microfono from '../components/microfono.jpg';
-import lector from '../components/lector.jpg';
 import { Carousel } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 

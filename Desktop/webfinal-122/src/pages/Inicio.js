@@ -27,7 +27,7 @@ Mantente atento a nuestras ofertas exclusivas y promociones especiales. En [Mund
 
 Tu Destino Tecnológico
 Ya seas un entusiasta de la tecnología o estés buscando el regalo perfecto, [Mundo Tec] es tu destino tecnológico. Únete a nosotros en este emocionante viaje hacia el futuro digital y descubre cómo la tecnología puede mejorar tu vida cotidiana.
-Bienvenido a [Mundo Tec] - donde la innovación se encuentra con la comodidad. </h2>
+Bienvenido a [Mundo Tec] - donde la innovación se encuentra con la comodidad.. probnado actualizar </h2>
         </header>
       </section> 
     <div className='divcont'>

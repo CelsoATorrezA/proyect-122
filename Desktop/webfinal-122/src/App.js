@@ -68,6 +68,7 @@ function App() {
         <Route path="/ofertas" element={<Ofertas />} />
         <Route path="/contacto" element={<Contactanos/>} />
         <Route path="/soporte" element={<Soporte/>} />
+        <Route path="*" element={<Inicio />} />
       </Routes>
     </Router>
   );
